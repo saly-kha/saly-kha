@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Saly Khalil — GitHub README</title>
-</head>
-<body>
-
 <h1>Hello! 👋</h1>
 
 <p><strong>My name is Saly Khalil.</strong><br>
@@ -53,6 +44,4 @@ Bachelor of Computer Science (Honours & Co-op), minor in Business Administration
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" height="25" alt="GitHub" />
 </p>
 
-</body>
-</html>
 
