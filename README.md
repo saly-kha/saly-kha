@@ -13,7 +13,7 @@
 Bachelor of Computer Science (Honours & Co-op), minor in Business Administration — 
 <em>University of Windsor, Canada.</em></p>
 
-<pre><code>While (!(successes = Try()))</code></pre>
+<pre><code>While (!(successes = Try() ) )</code></pre>
 
 <p>I’m passionate about <strong>creating smart and safe technology that people can trust.</strong></p>
 
@@ -26,7 +26,6 @@ Bachelor of Computer Science (Honours & Co-op), minor in Business Administration
   <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=FFFFFF" height="25" alt="C" />
   <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" height="25" alt="Canva" />
   <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-282C34?logo=microsoftoffice&logoColor=D83B01" height="25" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" height="25" alt="Windows" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" height="25" alt="VS Code" />
 </p>
 
