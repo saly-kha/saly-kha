@@ -5,8 +5,6 @@ Bachelor of Computer Science (Honours & Co-op), minor in Business Administration
 
 > I’m passionate about **creating smart and safe technology that people can trust**.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
