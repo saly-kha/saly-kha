@@ -1,55 +1,114 @@
-# Hello! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Saly Khalil — GitHub README</title>
+<style>
+  body {
+    background-color: #0f1226;
+    color: #e9ecff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Inter, sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px;
+  }
 
-My name is **Saly Khalil**.  
-Bachelor of Computer Science (Honours & Co-op), minor in Business Administration at the **University of Windsor** — *Windsor, Canada*.
+  h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0;
+  }
 
-> I’m passionate about **creating smart and safe technology that people can trust**.
+  h2 {
+    margin-top: 2rem;
+    color: #8aa3ff;
+  }
 
-## 🛠  Technologies and tools
+  a {
+    color: #8aa3ff;
+    text-decoration: none;
+  }
 
-<a name="learning-now"></a>
+  a:hover {
+    text-decoration: underline;
+  }
 
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FF8800" alt="Java" title="Java" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=FFFFFF" alt="C" title="C" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva" title="Canva" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Microsoft%20Word-282C34?logo=microsoftword&logoColor=2B579A" alt="Word" title="Microsoft Word" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Microsoft%20Excel-282C34?logo=microsoftexcel&logoColor=217346" alt="Excel" title="Microsoft Excel" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-282C34?logo=microsoftpowerpoint&logoColor=D24726" alt="PowerPoint" title="Microsoft PowerPoint" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows" title="Windows" height="25" />][tech_tools_anchor]
+  code {
+    background-color: #1b1f3a;
+    padding: 6px 10px;
+    border-radius: 6px;
+    display: inline-block;
+    color: #9efaff;
+    font-family: "Courier New", monospace;
+  }
 
-<a name="learning-next"></a>
+  img {
+    vertical-align: middle;
+  }
 
-## 📖  What I am currently learning / improving on
+  .badges img {
+    margin: 4px 6px 0 0;
+  }
 
-- **Linux** (command line, permissions, package management)
-- **Accounting fundamentals** (bookkeeping & financial principles)
+  .section {
+    margin-bottom: 2rem;
+  }
+</style>
+</head>
+<body>
 
-## 👾  What I am interested in learning next
+<h1>Hello! 👋</h1>
 
-- **Operating Systems (advanced)** — deeper Linux & OS concepts
-- **Python libraries for data/AI** — NumPy, Pandas, scikit-learn, TensorFlow / PyTorch
-- **AI Ethics** — fairness, explainability, privacy-aware ML
-- **Web Security** — authentication, HTTPS, OWASP Top 10
-- **Ethical Hacking tools** — Wireshark, Metasploit (basics), Burp Suite
+<p><strong>My name is Saly Khalil.</strong><br>
+Bachelor of Computer Science (Honours & Co-op), minor in Business Administration — <em>University of Windsor, Canada.</em></p>
 
-## 🔍  Where to find me
+<pre><code>While (!(successes = Try()))</code></pre>
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" />](#)
-&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub" title="GitHub" height="25" />](#)
+<p>I’m passionate about <strong>creating smart and safe technology that people can trust.</strong></p>
 
-[tech_tools_anchor]: #hello-
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+<div class="section">
+  <h2>🛠 Technologies and Tools</h2>
+  <div class="badges">
+    <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FF8800" height="25" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" alt="Python" />
+    <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=FFFFFF" height="25" alt="C" />
+    <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" height="25" alt="Canva" />
+    <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-282C34?logo=microsoftoffice&logoColor=D83B01" height="25" alt="Microsoft Office" />
+    <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" height="25" alt="Windows" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" height="25" alt="VS Code" />
+  </div>
+</div>
+
+<div class="section">
+  <h2>📖 Currently Learning</h2>
+  <ul>
+    <li><strong>Linux</strong> — command line, permissions, system management</li>
+    <li><strong>Accounting fundamentals</strong> — bookkeeping and financial basics</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>👾 Interested in Learning Next</h2>
+  <ul>
+    <li><strong>Operating Systems (advanced)</strong> — deeper Linux and OS concepts</li>
+    <li><strong>Python libraries for AI</strong> — NumPy, Pandas, scikit-learn, TensorFlow, PyTorch</li>
+    <li><strong>AI Ethics</strong> — fairness, explainability, and privacy-aware design</li>
+    <li><strong>Web Security</strong> — HTTPS, authentication, OWASP Top 10</li>
+    <li><strong>Ethical Hacking tools</strong> — Wireshark, Metasploit, Burp Suite</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>🔍 Where to Find Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/saly-khalil-713193334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+      <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" height="25" alt="GitHub" />
+  </p>
+</div>
+
+</body>
+</html>
